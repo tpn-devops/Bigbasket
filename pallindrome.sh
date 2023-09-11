@@ -1,3 +1,3 @@
 #/bin/bash
 
-This is  
+This is a program 
