@@ -1,4 +1,4 @@
-#bin/bash  1st change  
+#bin/bash   
 
 NUM=$1                 22222
 if [`expr $NUM % 2`
